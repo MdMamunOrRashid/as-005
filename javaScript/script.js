@@ -316,4 +316,5 @@ const searchBtnIssues = document.getElementById("search-issue-btn")
 
 
 
-
+allIssuesApi();
+showFilterIssueBtn('all-btn');
